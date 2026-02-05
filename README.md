@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Robbe.
+- 👋 Hi, I’m Robbe Verstraete.
 - 👀 I’m interested in everything about coding/programming/software development.
 - 📫 Contact: robbeverstraete10@gmail.com
